@@ -13,6 +13,10 @@ project_entries:
     url: https://github.com/piedness/pure-icon-extend
     desc: pure图标包扩展
 
+  - title: Project Reader
+    url: https://github.com/piedness/projectReader
+    desc: 电子书阅读app 
+
 
 
 
